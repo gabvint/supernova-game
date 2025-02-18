@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: a6d4fa47c2b0e43d3a0ed38f34864a03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3025818040760213687
+    second: sabrina_0
+  - first:
+      213: 3019600302907508301
+    second: sabrina_1
+  - first:
+      213: 499916867704906214
+    second: sabrina_2
+  - first:
+      213: -1336920341273734782
+    second: sabrina_3
+  - first:
+      213: 403444033260579161
+    second: sabrina_4
+  - first:
+      213: 3234978441281301908
+    second: sabrina_5
+  - first:
+      213: 5641175105660804813
+    second: sabrina_6
+  - first:
+      213: 5023493634817493765
+    second: sabrina_7
+  - first:
+      213: -3612137013022343286
+    second: sabrina_8
+  - first:
+      213: -2030360146562175610
+    second: sabrina_9
+  - first:
+      213: -1512770328282768530
+    second: sabrina_10
+  - first:
+      213: 2640080004538562070
+    second: sabrina_11
+  - first:
+      213: 3468119517817686866
+    second: sabrina_12
+  - first:
+      213: 283479798738481717
+    second: sabrina_13
+  - first:
+      213: 791865174203391316
+    second: sabrina_14
+  - first:
+      213: -1145092004228568772
+    second: sabrina_15
+  - first:
+      213: 6706440538962135842
+    second: sabrina_16
+  - first:
+      213: -6705195987721982129
+    second: sabrina_17
+  - first:
+      213: -1260945665161631151
+    second: sabrina_18
+  - first:
+      213: 6419501506052206356
+    second: sabrina_19
+  - first:
+      213: 4910251819341957999
+    second: sabrina_20
+  - first:
+      213: 8674037196934049757
+    second: sabrina_21
+  - first:
+      213: -6747390370956158544
+    second: sabrina_22
+  - first:
+      213: -2290526185467982376
+    second: sabrina_23
+  - first:
+      213: -8234328496594345902
+    second: sabrina_24
+  - first:
+      213: -8971725831298385200
+    second: sabrina_25
+  - first:
+      213: -3160919287178889576
+    second: sabrina_26
+  - first:
+      213: 7118901764500836424
+    second: sabrina_27
+  - first:
+      213: -4884019572711571279
+    second: sabrina_28
+  - first:
+      213: 6273006817433140108
+    second: sabrina_29
+  - first:
+      213: -6270069347079828788
+    second: sabrina_30
+  - first:
+      213: 3160959714266963302
+    second: sabrina_31
+  - first:
+      213: 3904817294121353919
+    second: sabrina_32
+  - first:
+      213: -1467040291920585683
+    second: sabrina_33
+  - first:
+      213: 5637648548350107442
+    second: sabrina_34
+  - first:
+      213: -3341811224885259631
+    second: sabrina_35
+  - first:
+      213: 838494165427347113
+    second: sabrina_36
+  - first:
+      213: 4836087485701678753
+    second: sabrina_37
+  - first:
+      213: 2830855162246486223
+    second: sabrina_38
+  - first:
+      213: 4071762652405560145
+    second: sabrina_39
+  - first:
+      213: -7779349170671150936
+    second: sabrina_40
+  - first:
+      213: 6326796657812027462
+    second: sabrina_41
+  - first:
+      213: 8353079062160066780
+    second: sabrina_42
+  - first:
+      213: 738786494332662195
+    second: sabrina_43
+  - first:
+      213: 4853274984142660338
+    second: sabrina_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sabrina_0
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2018
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b02b720a7dddf920800000000000000
+      internalID: 3025818040760213687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1880
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46c67a1a76c7e920800000000000000
+      internalID: 3019600302907508301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1934
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e6c41ebf00f600800000000000000
+      internalID: 499916867704906214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1894
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281926d680e427de0800000000000000
+      internalID: -1336920341273734782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1879
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9596f31f532599500800000000000000
+      internalID: 403444033260579161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d6e90b0c3f4ec20800000000000000
+      internalID: 3234978441281301908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1883
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce50b0deda794e40800000000000000
+      internalID: 5641175105660804813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1579
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b8bb268d807b540800000000000000
+      internalID: 5023493634817493765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1577
+        width: 78
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f33ca468c1fddc0800000000000000
+      internalID: -3612137013022343286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1578
+        width: 78
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d2d0a3436b2d3e0800000000000000
+      internalID: -2030360146562175610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_10
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1576
+        width: 76
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b54f3c66f810be0800000000000000
+      internalID: -1512770328282768530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_11
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1695
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f121c6c273a420800000000000000
+      internalID: 2640080004538562070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_12
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1576
+        width: 77
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b4f1a935c312030800000000000000
+      internalID: 3468119517817686866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_13
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1693
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327ec0006f1fe300800000000000000
+      internalID: 283479798738481717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1576
+        width: 77
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d55623e254dfa00800000000000000
+      internalID: 791865174203391316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_15
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1691
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39e0dc93e0db10f0800000000000000
+      internalID: -1145092004228568772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_16
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1575
+        width: 78
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b0e105320121d50800000000000000
+      internalID: 6706440538962135842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1582
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe47a56cb52f2a0800000000000000
+      internalID: -6705195987721982129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1582
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ae8fa2998308ee0800000000000000
+      internalID: -1260945665161631151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1582
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa3579b96a61950800000000000000
+      internalID: 6419501506052206356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1581
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc7999308b42440800000000000000
+      internalID: 4910251819341957999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1343
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf67c3afde506870800000000000000
+      internalID: 8674037196934049757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_22
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1346
+        width: 115
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95442f4347c52a0800000000000000
+      internalID: -6747390370956158544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1347
+        width: 167
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd437ee19a6630e0800000000000000
+      internalID: -2290526185467982376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_24
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1408
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502e941cd9c9bd80800000000000000
+      internalID: -8234328496594345902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_25
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1344
+        width: 64
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da734304e60e7380800000000000000
+      internalID: -8971725831298385200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_26
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1344
+        width: 68
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8967504d7a82224d0800000000000000
+      internalID: -3160919287178889576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_27
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1343
+        width: 73
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84059ffef6b6bc260800000000000000
+      internalID: 7118901764500836424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_28
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1343
+        width: 92
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c874431a783cb0800000000000000
+      internalID: -4884019572711571279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1345
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb4b2f6723e0750800000000000000
+      internalID: 6273006817433140108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1345
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccacd3a262d3cf8a0800000000000000
+      internalID: -6270069347079828788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1343
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd336dc1cfddb20800000000000000
+      internalID: 3160959714266963302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1180
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2c7e0f3a2b03630800000000000000
+      internalID: 3904817294121353919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1183
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c53e090a604abe0800000000000000
+      internalID: -1467040291920585683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1180
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f97e43c73fc3e40800000000000000
+      internalID: 5637648548350107442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1181
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1921d4a85608f91d0800000000000000
+      internalID: -3341811224885259631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_36
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1142
+        width: 165
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aed88c300ee2ab00800000000000000
+      internalID: 838494165427347113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1140
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e5ff02fb3d1340800000000000000
+      internalID: 4836087485701678753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_38
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1080
+        width: 119
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8584485c7394720800000000000000
+      internalID: 2830855162246486223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1140
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153f55a2f8ec18830800000000000000
+      internalID: 4071762652405560145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_40
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1141
+        width: 80
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a89a6265233a0490800000000000000
+      internalID: -7779349170671150936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_41
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1141
+        width: 69
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648b30b1a0c4dc750800000000000000
+      internalID: 6326796657812027462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_42
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1141
+        width: 77
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8cdc886291ce370800000000000000
+      internalID: 8353079062160066780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_43
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1207
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1fd8ff662b04a00800000000000000
+      internalID: 738786494332662195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sabrina_44
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1203
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2ec1362eb4a5340800000000000000
+      internalID: 4853274984142660338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
