@@ -16,13 +16,13 @@ public class sabrinacode : MonoBehaviour
 
     private void Update()
     {
-        float horizontalInput = Input.GetAxis("Horizontal");
+        float horizontalInput = Input.GetAxisRaw("Horizontal");
 
-        // Move player using Rigidbody2D physics
+        // Apply movement using Rigidbody2D
         rb.linearVelocity = new Vector2(horizontalInput * movementSpeed, rb.linearVelocity.y);
 
-        // Handle animation
-        animator.SetBool("isWalking", horizontalInput != 0);
+        // Update Blend Tree parameter (controls transition between idle and run animations)
+        animator.SetFloat("xVelocity", Mathf.Abs(rb.linearVelocity.x));
 
         // Flip character if moving in the opposite direction
         if ((horizontalInput > 0 && !isFacingRight) || (horizontalInput < 0 && isFacingRight))
