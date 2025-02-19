@@ -31,7 +31,7 @@ public class sabrinacode : MonoBehaviour
             Flip();
         }
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.UpArrow))
         {
             StartFighting();
         }
