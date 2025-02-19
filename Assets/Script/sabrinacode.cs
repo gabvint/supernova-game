@@ -4,7 +4,7 @@ public class sabrinacode : MonoBehaviour
 {
     public float movementSpeed = 3f;
     private bool isFacingRight = true;
-
+    private bool isFighting = false;
     private Rigidbody2D rb;
     private Animator animator;
 
@@ -18,18 +18,39 @@ public class sabrinacode : MonoBehaviour
     {
         float horizontalInput = Input.GetAxisRaw("Horizontal");
 
-        // Apply movement using Rigidbody2D
-        rb.linearVelocity = new Vector2(horizontalInput * movementSpeed, rb.linearVelocity.y);
 
-        // Update Blend Tree parameter (controls transition between idle and run animations)
-        animator.SetFloat("xVelocity", Mathf.Abs(rb.linearVelocity.x));
+        if (!isFighting)
+        {
+            rb.linearVelocity = new Vector2(horizontalInput * movementSpeed, rb.linearVelocity.y);
+            animator.SetFloat("xVelocity", Mathf.Abs(rb.linearVelocity.x));
+        }
 
         // Flip character if moving in the opposite direction
         if ((horizontalInput > 0 && !isFacingRight) || (horizontalInput < 0 && isFacingRight))
         {
             Flip();
         }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            StartFighting();
+        }
     }
+
+    private void StartFighting()
+    {
+        isFighting = true;
+        animator.SetBool("isFighting", true);
+
+        Invoke("StopFighting", 1f);
+    }
+
+    private void StopFighting()
+    {
+        isFighting = false;
+        animator.SetBool("isFighting", false);
+    }
+
 
     private void Flip()
     {
