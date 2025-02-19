@@ -31,7 +31,7 @@ public class TwoPlayerController : MonoBehaviour
         float horizontalInput2 = 0;
 
         if (Input.GetKey("a")) horizontalInput2 = -1f;
-        if (Input.GetKey("b")) horizontalInput2 = 1f;
+        if (Input.GetKey("d")) horizontalInput2 = 1f;
 
         // Player 1 Movement
         if (!isFighting1)
